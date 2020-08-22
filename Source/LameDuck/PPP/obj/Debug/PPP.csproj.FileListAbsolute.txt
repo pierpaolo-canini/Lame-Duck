@@ -1,0 +1,8 @@
+C:\Users\Pierpaolo\source\repos\PPP\PPP\bin\Debug\PPP.dll
+C:\Users\Pierpaolo\source\repos\PPP\PPP\bin\Debug\PPP.pdb
+C:\Users\Pierpaolo\source\repos\PPP\PPP\obj\Debug\PPP.csprojAssemblyReference.cache
+C:\Users\Pierpaolo\source\repos\PPP\PPP\obj\Debug\PPP.csproj.CoreCompileInputs.cache
+C:\Users\Pierpaolo\source\repos\PPP\PPP\obj\Debug\PPP.dll
+C:\Users\Pierpaolo\source\repos\PPP\PPP\obj\Debug\PPP.pdb
+C:\Users\Pierpaolo\source\repos\PPP\PPP\obj\Debug\PPP.RotateSectionBoxForm.resources
+C:\Users\Pierpaolo\source\repos\PPP\PPP\obj\Debug\PPP.csproj.GenerateResource.cache

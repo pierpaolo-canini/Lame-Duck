@@ -1,0 +1,8 @@
+C:\Dropbox\Visual Studio\source\repos\LameDuckRibbon\PPPRibbon\bin\Debug\LameDuckRibbon.addin
+C:\Dropbox\Visual Studio\source\repos\LameDuckRibbon\PPPRibbon\obj\Debug\LameDuckRibbon.csprojAssemblyReference.cache
+C:\Dropbox\Visual Studio\source\repos\LameDuckRibbon\PPPRibbon\obj\Debug\LameDuckRibbon.csproj.CoreCompileInputs.cache
+C:\Dropbox\Visual Studio\source\repos\LameDuckRibbon\PPPRibbon\bin\Debug\LameDuckRibbon.dll
+C:\Dropbox\Visual Studio\source\repos\LameDuckRibbon\PPPRibbon\bin\Debug\LameDuckRibbon.pdb
+C:\Dropbox\Visual Studio\source\repos\LameDuckRibbon\PPPRibbon\obj\Debug\LameDuckRibbon.g.resources
+C:\Dropbox\Visual Studio\source\repos\LameDuckRibbon\PPPRibbon\obj\Debug\LameDuckRibbon.dll
+C:\Dropbox\Visual Studio\source\repos\LameDuckRibbon\PPPRibbon\obj\Debug\LameDuckRibbon.pdb

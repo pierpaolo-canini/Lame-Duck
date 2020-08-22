@@ -1,0 +1,8 @@
+C:\Dropbox\Visual Studio\source\repos\LameDuck\PPP\bin\Debug\LameDuck.dll
+C:\Dropbox\Visual Studio\source\repos\LameDuck\PPP\bin\Debug\LameDuck.pdb
+C:\Dropbox\Visual Studio\source\repos\LameDuck\PPP\obj\Debug\LameDuck.csprojAssemblyReference.cache
+C:\Dropbox\Visual Studio\source\repos\LameDuck\PPP\obj\Debug\LameDuck.RotateSectionBoxForm.resources
+C:\Dropbox\Visual Studio\source\repos\LameDuck\PPP\obj\Debug\LameDuck.csproj.GenerateResource.cache
+C:\Dropbox\Visual Studio\source\repos\LameDuck\PPP\obj\Debug\LameDuck.csproj.CoreCompileInputs.cache
+C:\Dropbox\Visual Studio\source\repos\LameDuck\PPP\obj\Debug\LameDuck.dll
+C:\Dropbox\Visual Studio\source\repos\LameDuck\PPP\obj\Debug\LameDuck.pdb

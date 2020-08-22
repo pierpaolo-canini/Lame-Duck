@@ -1,0 +1,8 @@
+C:\Users\Pierpaolo\source\repos\PPPRibbon\PPPRibbon\obj\Debug\PPPRibbon.csprojAssemblyReference.cache
+C:\Users\Pierpaolo\source\repos\PPPRibbon\PPPRibbon\obj\Debug\PPPRibbon.csproj.CoreCompileInputs.cache
+C:\Users\Pierpaolo\source\repos\PPPRibbon\PPPRibbon\bin\Debug\PPPRibbon.dll
+C:\Users\Pierpaolo\source\repos\PPPRibbon\PPPRibbon\bin\Debug\PPPRibbon.pdb
+C:\Users\Pierpaolo\source\repos\PPPRibbon\PPPRibbon\obj\Debug\PPPRibbon.dll
+C:\Users\Pierpaolo\source\repos\PPPRibbon\PPPRibbon\obj\Debug\PPPRibbon.pdb
+C:\Users\Pierpaolo\source\repos\PPPRibbon\PPPRibbon\bin\Debug\PPPRibbon.addin
+C:\Users\Pierpaolo\source\repos\PPPRibbon\PPPRibbon\obj\Debug\PPPRibbon.g.resources

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Lame Duck</Name>
+		<Assembly>LameDuckRibbon.dll</Assembly>
+		<AddInId>797D38A7-0C8F-4E24-AF5B-535678F65392</AddInId>
+		<FullClassName>LameDuckRibbon.LameDuckRibbonApp</FullClassName>
+		<VendorId>Pierpaolo Canini</VendorId>
+		<VendorDescription>https://www.linkedin.com/in/pierpaolocanini/</VendorDescription>
+	</AddIn>
+</RevitAddIns>
