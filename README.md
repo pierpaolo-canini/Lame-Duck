@@ -9,4 +9,8 @@ Revit plug-in to make my life a little happier
 # How To Install
 Unzip the plugin files in the C:\ProgramData\Autodesk\Revit\Addins\XXXX\ folder where XXXX is the Revit Version you're interested in
 
+Depending on your coumputer settings you may have to "Unblock" the two dll files. You can do it by right clicking on the two dll files, click Properties, Check the Unblock checkbox.
+
+<img src="http://www.pierpaolocanini.com/GitHub/LameDuck/LDRUnblock.jpg" alt="LDd"> <img src="http://www.pierpaolocanini.com/GitHub/LameDuck/LDUnblock.jpg" alt="LDd">
+
 Tested in Revit 2019, 2020
