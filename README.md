@@ -13,4 +13,10 @@ Depending on your coumputer settings you may have to "Unblock" the two dll files
 
 <img src="http://www.pierpaolocanini.com/GitHub/LameDuck/LDRUnblock.jpg" alt="LDd"> <img src="http://www.pierpaolocanini.com/GitHub/LameDuck/LDUnblock.jpg" alt="LDd">
 
+Then at your first Revit startup click "Always Load"
+
+<img src="http://www.pierpaolocanini.com/GitHub/LameDuck/LDRAlwaysLoad.jpg" alt="LDd">
+
+Done ;)
+
 Tested in Revit 2019, 2020
