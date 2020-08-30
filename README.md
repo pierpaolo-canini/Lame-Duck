@@ -19,7 +19,7 @@ Then at your first Revit startup click "Always Load".
 
 Done ;)
 
-# Hot To Unistall
+# How To Unistall
 
 Just go to the C:\ProgramData\Autodesk\Revit\Addins\XXXX\ folder and delete the LameDuck Files.
 
